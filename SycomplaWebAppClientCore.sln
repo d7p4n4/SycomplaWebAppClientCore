@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.29709.97
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "SycomplaWebAppClientCore", "SycomplaWebAppClientCore\SycomplaWebAppClientCore.csproj", "{66A43A1B-E95A-4623-A962-EBE3EDAE93AA}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{66A43A1B-E95A-4623-A962-EBE3EDAE93AA}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{66A43A1B-E95A-4623-A962-EBE3EDAE93AA}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{66A43A1B-E95A-4623-A962-EBE3EDAE93AA}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{66A43A1B-E95A-4623-A962-EBE3EDAE93AA}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {B9EDDD4B-5417-4491-AF2E-B6DC26BC7B5F}
+	EndGlobalSection
+EndGlobal
