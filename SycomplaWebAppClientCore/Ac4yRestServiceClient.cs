@@ -45,7 +45,7 @@ namespace SycomplaWebAppClientCore
         {
             using (var httpClient = new HttpClient())
             {
-                using (var request = new HttpRequestMessage(new HttpMethod("POST"), "https://service.sycompla.hu/dummy"))
+                using (var request = new HttpRequestMessage(new HttpMethod("POST"), URL))
                 {
                     request.Content = new StringContent(DATA);
                     request.Content.Headers.ContentType = MediaTypeHeaderValue.Parse("application/json");
