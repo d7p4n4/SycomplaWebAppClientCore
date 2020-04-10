@@ -6,8 +6,8 @@ using System.Text;
 
 namespace SycomplaWebAppClientCore
 {
-    public class Ac4yRestServiceClient
-    {
+    public class Ac4yRestServiceClientBackup
+    {/*
         public string GET(string URL, string DATA)
         {
             HttpClient httpClient = new HttpClient();
@@ -55,6 +55,6 @@ namespace SycomplaWebAppClientCore
                 }
             }
         }
-
+        */
     }
 }

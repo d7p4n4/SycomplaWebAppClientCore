@@ -4,7 +4,7 @@ using System.Text;
 
 namespace SycomplaWebAppClientCore
 {
-    class LohinRequestClass
+    class LoginRequestClass
     {
         public string FBToken { get; set; }
     }
