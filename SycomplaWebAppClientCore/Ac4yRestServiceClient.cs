@@ -53,13 +53,8 @@ namespace SycomplaWebAppClientCore
                     var response = httpClient.SendAsync(request).Result;
                     return response.Content.ReadAsStringAsync().Result;
                 }
-            }/*
-            {
-                    var response = httpClient.PostAsync(URL, request.Content).Result;
-                    string result = response.Content.ReadAsStringAsync().Result;
-                    return result;
-                }
-            }*/
+            }
         }
+
     }
 }
